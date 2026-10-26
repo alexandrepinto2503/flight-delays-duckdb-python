@@ -1,0 +1,6 @@
+input/*
+build/*
+package/*
+*.duckdb
+__pycache__/*
+glue_etl.egg-info/*
